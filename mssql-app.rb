@@ -7,3 +7,5 @@ rake("db:migrate")
 git :init
 git :add => "."
 git :commit => "-a -m 'Initial commit'"
+
+#this is a comment
